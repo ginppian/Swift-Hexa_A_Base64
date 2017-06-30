@@ -1,15 +1,7 @@
 Swift - Hexadecimal a Base64
 =================
 
-```
-//
-//  ViewController.swift
-//  Algoritmo5
-//
-//  Created by ginppian on 29/06/17.
-//  Copyright © 2017 Nut Systems. All rights reserved.
-//
-
+```swift
 import UIKit
 
 class ViewController: UIViewController {
@@ -313,3 +305,9 @@ extension ViewController {
 }
 
 ```
+
+### Fuentes y Herramientas
+
+<a href="https://es.wikipedia.org/wiki/Base64">Base 64</a>
+<a href="https://redir.dasumo.com/hex/">Traductor BINARIO HEXADECIMAL BASE64</a>
+
