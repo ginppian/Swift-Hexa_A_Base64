@@ -6,11 +6,11 @@ Swift - Hexadecimal a Base64
 </p>
 
 <p align="center" >
-	<img src="https://github.com/ginppian/Swift-Hexa_A_Base64/blob/master/imgs/img2.png" width="926" height="634">
+	<img src="https://github.com/ginppian/Swift-Hexa_A_Base64/blob/master/imgs/img2.png" width="926" height="550">
 </p>
 
 <p align="center" >
-	<img src="https://github.com/ginppian/Swift-Hexa_A_Base64/blob/master/imgs/img3.png" width="926" height="634">
+	<img src="https://github.com/ginppian/Swift-Hexa_A_Base64/blob/master/imgs/img3.png" width="926" height="550">
 </p>
 
 ```swift
