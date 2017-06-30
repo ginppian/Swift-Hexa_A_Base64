@@ -308,6 +308,6 @@ extension ViewController {
 
 ### Fuentes y Herramientas
 
-<a href="https://es.wikipedia.org/wiki/Base64">Base 64</a>
-<a href="https://redir.dasumo.com/hex/">Traductor BINARIO HEXADECIMAL BASE64</a>
+* <a href="https://es.wikipedia.org/wiki/Base64">Base 64</a>
+* <a href="https://redir.dasumo.com/hex/">Traductor BINARIO HEXADECIMAL BASE64</a>
 
